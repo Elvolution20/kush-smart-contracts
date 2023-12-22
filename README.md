@@ -4,6 +4,26 @@
 
 This repo includes core and peripheral contracts from Uniswap V2.
 
+## Deployed Contract
+
+0x93922BD5d6BddD9D7C1d2837F2B61E41C14959e7 - Factory
+Link - https://sepolia.explorer.mode.network/address/0x93922BD5d6BddD9D7C1d2837F2B61E41C14959e7?tab=contract
+
+0xa375Eb2BA2B6F672Ac845Ab21634112a4122Bc99 - WETH
+Link - https://sepolia.explorer.mode.network/address/0xa375Eb2BA2B6F672Ac845Ab21634112a4122Bc99
+
+0x828a9CA1347B3b3525FD94700B78bB048dB1eF8B - Router
+Link - https://sepolia.explorer.mode.network/address/0x828a9CA1347B3b3525FD94700B78bB048dB1eF8B?tab=contract
+
+0x6b294d4527cafeA20F10024339AEc8732077fCA7 - Multicall
+Link - https://sepolia.explorer.mode.network/address/0x6b294d4527cafeA20F10024339AEc8732077fCA7
+
+0xC4a18B3BBa49a47514d2f58B3787E9952E27bD49 - Kush Token
+Link - https://sepolia.explorer.mode.network/address/0xC4a18B3BBa49a47514d2f58B3787E9952E27bD49?tab=contract
+
+0xFBbb45aa806B0b0ec511dc50F334D9376b14cB3b - Mock USDT
+Link - https://sepolia.explorer.mode.network/address/0xFBbb45aa806B0b0ec511dc50F334D9376b14cB3b?tab=contract
+
 
 ## About KushSwap
 
